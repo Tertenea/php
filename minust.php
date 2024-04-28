@@ -1,0 +1,2 @@
+<h2>Minust</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nisi quam eveniet recusandae ducimus atque provident earum. Dolorem, harum aspernatur sunt perspiciatis sapiente enim tempora culpa praesentium. Neque, ad sit!</p>
